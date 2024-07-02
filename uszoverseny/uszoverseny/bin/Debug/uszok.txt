@@ -1,0 +1,5 @@
+001;Aljand Triin;1985.07.08;Észtország;2:07.21
+002;Hosszú Katinka;1989.05.03;Magyarország;2:05.18
+003;Jakabos Zsuzsanna;1989.04.03;Magyarország;2:05.18
+004;Martina Granstrom;1991.08.05;Svédország;2:08.03
+005;Snildal Ingvild;1988.08.25;Norvégia;2:06.15
